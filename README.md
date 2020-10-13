@@ -18,7 +18,7 @@ There are already a couple of lines of code in `analyse_grades.py`, but if you t
 
 ## Task 2: make some plots!
 
-Now, all the grades should in a NumPy array, with each row corresponding to a student and each column to an assignment. To get a general view of the class' results, for example, we could plot some histograms.
+Now, all the grades should be in a NumPy array, with each row corresponding to a student and each column to an assignment. To get a general view of the class' results, for example, we could plot some histograms.
 
 - Search the matplotlib documentation to find out how to plot histograms -- it's available at [matplotlib.org](https://matplotlib.org/). Remember that you can use your favourite search engine to search the documentation -- for example, you could search Google for `histogram site:matplotlib.org`.
 - Plot a histogram of the grades for **each** assignment (each column in the data). This will tell you how many students in the class got a certain grade, for all 4 assignments.
