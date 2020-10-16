@@ -1,0 +1,23 @@
+Statistics by assignment
+Assignment 1:
+- Average grade: 71.4
+- Median grade: 75.0
+- 213 students got an A (71.0% of students).
+
+Assignment 2:
+- Average grade: 76.2
+- Median grade: 79.0
+- 240 students got an A (80.0% of students).
+
+Assignment 3:
+- Average grade: 63.4
+- Median grade: 69.0
+- 144 students got an A (48.0% of students).
+
+Assignment 4:
+- Average grade: 58.8
+- Median grade: 63.0
+- 26 students got an A (8.7% of students).
+
+
+1 students got an A for all 4 assignments (0.3% of students).
