@@ -1,5 +1,7 @@
 import numpy as np
-import matplotlib.plt as pyplot
+import matplotlib.pyplot as plt
+rng = np.random.default_rng()
+
 
 # Generate lots of fake grades for 4 assignments in a class of 300.
 # For half the class (150): create a skewed distribution
